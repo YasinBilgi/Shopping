@@ -1,0 +1,11 @@
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\bin\Debug\Alısveris.exe.config
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\bin\Debug\Alısveris.exe
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\bin\Debug\Alısveris.pdb
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\obj\Debug\Alısveris.csproj.AssemblyReference.cache
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\obj\Debug\Alısveris.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\obj\Debug\Alısveris.Form1.resources
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\obj\Debug\Alısveris.Properties.Resources.resources
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\obj\Debug\Alısveris.csproj.GenerateResource.cache
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\obj\Debug\Alısveris.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\obj\Debug\Alısveris.exe
+C:\Users\yasin\OneDrive\Documents\Dersler\Alısveris\Alısveris\obj\Debug\Alısveris.pdb
